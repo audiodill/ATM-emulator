@@ -1,0 +1,9 @@
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\BankTellerExerciseTests.dll
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\BankTellerExerciseTests.pdb
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\BankTellerExercise.exe
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\BankTellerExercise.pdb
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\bin\Debug\BankTellerExercise.exe.config
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\obj\Debug\BankTellerExerciseTests.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\obj\Debug\BankTellerExerciseTests.dll
+C:\Users\Jesse Dill\Desktop\PairWork\team-7-c-week-3-pair-exercises\m1-w3d3-inheritance-exercises-pair\BankTellerExerciseTests\obj\Debug\BankTellerExerciseTests.pdb
